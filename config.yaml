@@ -63,7 +63,7 @@ spec:
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  namespace: metallb-system
+  namespace: argocd
   name: config
 data:
   config: |
